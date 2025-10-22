@@ -1,2 +1,2 @@
 # StyleHub
-it is a online shop that has products on itself, and you can order anything.
+It is an online shop which name "StyleHub". in StyleHub there are some products like Classic Denim Jacket, Elegant Evening Dress and ...with thier prices, and information about the product. You can choose each product you desire and by clicking on it can add to your cart and add to your wishlishts. you can create account and access your dashboard. by clicking logout you can delete your account if you want to log out.
